@@ -1,0 +1,34 @@
+// =======================================
+// Colors
+// =======================================
+
+$color-primary: #777;
+$color-secondary: #58e1c1; 
+$light-blue: #51ddfc;
+$white: #fff;
+$color-border: #ccc;
+
+// =======================================
+// Button Colors
+// =======================================
+
+$button-red: #e4757a;
+$button-red-light: lighten($button-red, 15%);
+
+$button-purple: #927bc1;
+$button-purple-light: lighten($button-purple, 15%);
+
+$button-green: #63cc82;
+$button-green-light: lighten($button-green, 15%);
+
+$button-orange: #fd7856;
+$button-orange-light: lighten($button-orange, 15%);
+
+
+// =======================================
+// Breakpoints
+// =======================================
+
+$small: 756px;
+$med: 768px;
+$lg: 992px;
